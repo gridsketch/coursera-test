@@ -1,2 +1,2 @@
-# toursera_test
+# coursera_test
 Coursera Test Repository
